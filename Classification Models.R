@@ -1,13 +1,3 @@
-# [Neelan,Muthurajah]
-# [20195484]
-# [Masters of Management Analytics]
-# [Section 2]
-# [MMA 869]
-# [Aug 16th 2020]
-
-
-# Submission to Question [7], Part 2 [a,b,c]
-
 #Imports R-packages that are needed to run code below. If user does not have package installed, pacman will install package for the user. 
 if("pacman" %in% rownames(installed.packages()) == FALSE) {install.packages("pacman")} # Check if you have universal installer package, install if not
 
